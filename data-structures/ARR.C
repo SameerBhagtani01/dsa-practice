@@ -31,7 +31,7 @@ void main()
 
 			case 3 :	exit(1);
 
-			default : 	printf("Invalid Choice");
+			default : 	printf("\nInvalid Choice");
 
 		}
 
@@ -52,7 +52,7 @@ void inputElements()
 		scanf("%d", &arr[i]);
 	}
 
-	printf("\nInput done");
+	printf("\nInput completed");
 }
 
 void displayElements()

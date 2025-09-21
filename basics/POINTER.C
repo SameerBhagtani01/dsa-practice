@@ -13,4 +13,5 @@ void main()
 	printf("\nValue at ptr : %d", *ptr);
 
 	getch();
+
 }
